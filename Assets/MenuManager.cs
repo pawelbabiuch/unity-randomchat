@@ -1,0 +1,13 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MenuManager : MonoBehaviour
+{
+    public void ExitApplication()
+    {
+        Debug.Log("@ Exit Application");
+        Application.Quit();
+    }
+
+}
