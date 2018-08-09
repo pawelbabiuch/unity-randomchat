@@ -18,3 +18,9 @@ Aplikacja jest wersją prototypową, która umożliwia połączenie się ze sob�
 #
 <p align='center'>Rozmowa (pionowo oraz poziomo)</p>
 <img align='center' src='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj2.jpg' alt='zdj rozmowa'/>
+
+## Prezentacja wideo
+
+<a align='center' href="http://www.youtube.com/watch?feature=player_embedded&v=aMc4NGFBnLA
+" target="_blank"><img src="http://img.youtube.com/vi/aMc4NGFBnLA/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
