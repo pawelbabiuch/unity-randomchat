@@ -7,14 +7,14 @@ Aplikacja jest wersją prototypową, która umożliwia połączenie się ze sob�
 - [Silnik graficzny Unity](https://unity3d.com/) (2018.2)
 - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html)
 
-# Zrzuty ekranu
+## Zrzuty ekranu
 <p align='center'>Menu (pionowo)</p>
-<img scr='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj1.jpg' alt='zdj pionowo'/>
+<img src='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj1.jpg' alt='zdj pionowo'/>
 
 #
 <p align='center'>Menu (poziomo)</p>
-<img align='center' scr='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj3.jpg' alt='zdj poziomo'/>
+<img align='center' src='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj3.jpg' alt='zdj poziomo'/>
 
 #
 <p align='center'>Rozmowa (pionowo oraz poziomo)</p>
-<img align='center' scr='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj2.jpg' alt='zdj rozmowa'/>
+<img align='center' src='https://github.com/pawelbabiuch/unity-randomchat/blob/master/media/zdj2.jpg' alt='zdj rozmowa'/>
